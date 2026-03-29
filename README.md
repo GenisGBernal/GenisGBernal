@@ -2,7 +2,7 @@
 
 ### Backend Engineer specialized in Java and the Spring ecosystem
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=007AFF&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;3%2B+Years+of+Software+Development;Building+Beautiful+Mobile+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF5733&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;3%2B+Years+of+Software+Development;Building+Beautiful+Mobile+Experiences;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 ### 🚀 About Me
 - 👨🏻‍💻 Software Engineer building blazingly fast and scalable backend applications
@@ -22,13 +22,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GenisGBernal&theme=github-dark&hide_border=true&background=0d1117&stroke=007AFF&ring=007AFF&fire=007AFF&currStreakLabel=007AFF&sideNums=007AFF&sideLabels=007AFF&dates=9CA3AF&currStreakNum=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=GenisGBernal&theme=github-dark&hide_border=true&background=0d1117&stroke=FF5733&ring=FF5733&fire=FF5733&currStreakLabel=FF5733&sideNums=FF5733&sideLabels=FF5733&dates=9CA3AF&currStreakNum=FFFFFF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenisGBernal&bg_color=0d1117&color=007AFF&line=007AFF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenisGBernal&bg_color=0d1117&color=FF5733&line=FF5733&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ----------
@@ -56,13 +56,13 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,100:0A84FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FF7A40&height=120&section=footer" />
 
 ### ✨ Thank you for visiting!
 
-![GitHub Followers](https://img.shields.io/github/followers/GenisGBernal?style=for-the-badge&color=007AFF)
-![GitHub Stars](https://img.shields.io/github/stars/GenisGBernal?style=for-the-badge&color=007AFF)
-![Profile Views](https://komarev.com/ghpvc/?username=GenisGBernal&style=for-the-badge&color=007AFF)
+![GitHub Followers](https://img.shields.io/github/followers/GenisGBernal?style=for-the-badge&color=FF5733)
+![GitHub Stars](https://img.shields.io/github/stars/GenisGBernal?style=for-the-badge&color=FF5733)
+![Profile Views](https://komarev.com/ghpvc/?username=GenisGBernal&style=for-the-badge&color=FF5733)
 
 _Made with ❤️‍🔥 by [Genís](https://github.com/GenisGBernal)_
 
